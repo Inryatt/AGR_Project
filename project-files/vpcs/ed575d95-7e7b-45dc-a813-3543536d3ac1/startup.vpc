@@ -1,0 +1,3 @@
+set pcname CompanyB
+ip 81.100.2.3 24
+ip 2001:81:2::3/64
