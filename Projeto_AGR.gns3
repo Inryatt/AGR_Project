@@ -31,8 +31,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"576.0\" height=\"792.0\"><ellipse cx=\"288\" rx=\"288\" cy=\"396\" ry=\"396\" fill=\"#ffffff\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
-                "x": -574,
-                "y": -468,
+                "x": -602,
+                "y": -498,
                 "z": 0
             },
             {
@@ -448,8 +448,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "f0/0",
-                            "x": 48,
-                            "y": -1
+                            "x": 65,
+                            "y": 18
                         },
                         "node_id": "485317f0-ba42-4fdb-a9bb-f8c9b9ccac7f",
                         "port_number": 0
@@ -818,8 +818,8 @@
                 "symbol": ":/symbols/router.svg",
                 "template_id": "0d49bfa0-a0fd-4e3e-80ca-cb0beea11bcd",
                 "width": 66,
-                "x": -369,
-                "y": -75,
+                "x": -373,
+                "y": -70,
                 "z": 1
             },
             {
@@ -875,8 +875,8 @@
                 "symbol": ":/symbols/router.svg",
                 "template_id": "0d49bfa0-a0fd-4e3e-80ca-cb0beea11bcd",
                 "width": 66,
-                "x": -683,
-                "y": -73,
+                "x": -700,
+                "y": -80,
                 "z": 1
             },
             {
@@ -1077,8 +1077,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": -111,
-                "y": -80,
+                "x": -108,
+                "y": -83,
                 "z": 1
             },
             {
